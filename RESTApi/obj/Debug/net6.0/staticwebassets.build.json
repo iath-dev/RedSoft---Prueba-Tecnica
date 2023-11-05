@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rick6f2ZpXvUkUD0UktvJC9mGrvom9ORRt9B05lUATw=",
+  "Source": "RESTApi.WebAPI",
+  "BasePath": "_content/RESTApi.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
